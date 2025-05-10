@@ -12,10 +12,10 @@ public class App {
         }
         else {
             if (valorUno > valorDos) {
-                System.out.println("El valor uno es mayor");
+                System.out.println("El valor uno es mayor ");
             }
             else{
-                System.out.println("El valor dos es el mayor");
+                System.out.println("El valor dos es el mayor ");
             }
         }
     }
